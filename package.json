@@ -1,6 +1,6 @@
 {
     "name": "max-content-line",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "You can easily add line limits to your content.",
     "main": "./lib/MaxContentLine.js",
     "license": "MIT",
