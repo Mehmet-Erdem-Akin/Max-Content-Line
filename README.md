@@ -52,5 +52,5 @@ First, import the component. Then, you have to call the component in jsx and giv
 ### Any bugs or feature request, feel free to submit a pull request on Github.
 
 ## Contact
-- [mehmeterdemakin@outlook.com](mailto:mehmeterdemakin@outlook.com)
+- [mehmet.erdem.akin@outlook.com](mailto:mehmet.erdem.akin@outlook.com)
 
